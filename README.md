@@ -1,5 +1,3 @@
-I Broke UCRCareer
-
 UCRcareer
 ==============
 This project mimics job hunting websites such as indeed.com. Users can search for jobs based on keywords. 
