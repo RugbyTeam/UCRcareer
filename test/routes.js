@@ -132,7 +132,7 @@ describe('routes', function (){
 
         db = mongoose.createConnection(dbSettings.host
                                      , dbSettings.database
-                                     , dbSettings.port); 
+                                     , 8081); 
    
         app.use(session({
             'name': 'ucrCareer.api-token'
